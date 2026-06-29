@@ -24,25 +24,3 @@ A responsive React + TypeScript application that provides real-time weather fore
 -bash
 npm install
 npm run dev
-
-## Screenshots
-
-# Home Page
-
-screenshots/home.png
-
-# Weather Search
-
-screenshots/search-weather.png
-
-# Forecast
-
-screenshots/forecast.png
-
-# Trip Planner
-
-screenshots/trip-planner.png
-
-# Destinations
-
-screenshots/destination.png
