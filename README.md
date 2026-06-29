@@ -87,23 +87,23 @@ npm run dev
 
 # Home Page
 
-screenshots/home.png
+![Home](screenshots/home.png)
 
 # Weather Search
 
-screenshots/search-weather.png
+![Home](screenshots/search-weather.png)
 
 # Forecast
 
-screenshots/forecast.png
+![Home](screenshots/forecast.png)
 
 # Trip Planner
 
-screenshots/trip-planner.png
+![Home](screenshots/trip-planner.png)
 
 # Destinations
 
-screenshots/destination.png
+![Home](screenshots/destination.png)
 
 ##  Future Enhancements
 
