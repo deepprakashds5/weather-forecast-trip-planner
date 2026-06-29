@@ -89,7 +89,7 @@ npm run dev
 
 ![Home](screenshots/home.png)
 
-# Weather Search
+# Search
 
 ![Home](screenshots/search-weather.png)
 
