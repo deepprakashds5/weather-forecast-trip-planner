@@ -119,7 +119,7 @@ screenshots/destination.png
 This project is licensed under the MIT License.
 
 
-## 👨‍💻 Author
+##  Author
 
 Deep Prakash
 
