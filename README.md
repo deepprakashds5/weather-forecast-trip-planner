@@ -83,17 +83,27 @@ Start the development server
 npm run dev
 -
 
-##  Screenshots
+## Screenshots
 
-Add screenshots here.
+# Home Page
 
-Example
+screenshots/home.png
 
-- Home Page
-- Weather Forecast
-- Trip Planner
+# Weather Search
 
+screenshots/search-weather.png
 
+# Forecast
+
+screenshots/forecast.png
+
+# Trip Planner
+
+screenshots/trip-planner.png
+
+# Destinations
+
+screenshots/destination.png
 
 ##  Future Enhancements
 
